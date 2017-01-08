@@ -1,7 +1,7 @@
 # lineage-surnia-releases
 LineageOS 14.1.1 releases for Motorola Moto E 2015  LTE (surnia) with VoLTE IMS support (formerly CyanogenMod)
 
-Latest Realease version: 20170105-08 
+Latest Realease version: 20170108-10
 These builds include VoLTE support.
 Do not dirty flash over non-VoLTE cyanogenmod or lineage releases.
 
