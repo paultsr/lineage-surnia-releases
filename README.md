@@ -5,7 +5,7 @@ NO GUARANTEES OR WARRANTY WHATSOEVER.
 
 FLASH AT YOUR OWN RISK.
 
-Latest Release version: # 20170120-01
+Latest Release version: # 20170126-17
 
 These builds include VoLTE support.
 Do not dirty flash over non-VoLTE cyanogenmod or lineage releases.
